@@ -1,0 +1,27 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+    color: #333;
+    text-align: center;
+    padding: 2rem;
+}
+header {
+    margin-bottom: 2rem;
+}
+input, button {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 0.5rem;
+}
+button {
+    background-color:  burlywood;
+    color: white;
+    cursor: pointer;
+}
+canvas {
+    max-width: 600px;
+    margin: auto;
+}
+    
